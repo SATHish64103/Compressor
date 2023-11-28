@@ -1,0 +1,2 @@
+# Compressor
+This is a audio compressor developed in MATLAB r2021b for the 2023 AES Student Plugin competition, secured the bronze award. The compressor developed as VST plugin, seamlessly importable and compactable with any audio editing softwares. It offers a range of tunable parameters - compression threshold, ratio, kneewidth, attack time, release time and makeup gain, which can be adjusted by the user in real-time audio control and enhancement.
